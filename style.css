@@ -59,9 +59,6 @@
 .main_content_description h3 {
     color: #6DC72A ;
 }
-.main_content_description p {
-    color: #999 ;
-}
 .main_content_description {
     display: flex;
     flex-wrap: wrap;
@@ -85,9 +82,6 @@
 }
 .news h3 {
     color: #6DC72A;
-}
-.news p {
-    color: #999 ;
 }
 .child {
     display: flex;
@@ -127,9 +121,6 @@
 .contacts h3 {
     color: #6DC72A;
 }
-.contacts p {
-    color: #999;
-}
 .map {
     text-align: center;
 }
@@ -151,4 +142,16 @@
     .top_menu_logo img {
         width: 170px;
     }
+}
+.cen {
+    margin-left: 100px;
+    text-align: center;
+    width: 1000px;
+}
+.osnova {
+    display: flex;
+
+}
+.opis h3 {
+    color: #6DC72A;
 }
