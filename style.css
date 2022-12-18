@@ -93,21 +93,24 @@
     display: flex;
 }
 .ch {
-    margin-left: 100px;
+    margin-left: 80px;
     margin-top: 30px;
 }
 .chill {
-    width: 350px;
+    width: 400px;
     height: auto;
 }
 .text1 {
-    margin-left: 300px;
-    width: 350px;
-    height: 200px;
+    margin-left: 150px;
+    width: 400px;
+    height: 250px;
     margin-top: 40px;
     margin-right: 0;
 }
 .text1 h3, p {
+    color: #999;
+}
+.possible {
     color: #999;
 }
 .impossible {
