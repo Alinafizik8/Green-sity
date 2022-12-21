@@ -169,3 +169,41 @@
 .spis {
     color: #999;
 }
+.mintxt {
+    width: 1000px;
+    text-align: center;
+    margin-left: 100px;
+}
+.NK {
+    width: 200px;
+    margin-left: 500px;
+    text-align: center;
+    color: #6DC72A;
+    margin-top: 50px;
+}
+.people {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+.people h3 {
+    color: #6DC72A;
+}
+.pip {
+    text-align: center;
+    width: 250px;
+    margin-left: 30px;
+}
+.f {
+    margin-left: 70px;
+}
+.fom {
+    margin-top: 40px;
+}
+.fr h3 {
+    color: #6DC72A;
+}
+.fr {
+    text-align: center;
+}
